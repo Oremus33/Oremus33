@@ -20,4 +20,5 @@ Some fun facts about me
 
 Feel free to reach out by email or LinkedIn 
 
-My resume is [SAUL OREMUS Triple Ten Resume (1).pdf](https://github.com/Oremus33/Oremus33/files/14233286/SAUL.OREMUS.Triple.Ten.Resume.1.pdf)
+My resume is [SAUL OREMUS Resume (1).pdf](https://github.com/Oremus33/Oremus33/files/14233347/SAUL.OREMUS.Resume.1.pdf)
+
