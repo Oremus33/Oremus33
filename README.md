@@ -1,10 +1,10 @@
 ### Hi there 👋 My name is Saul Oremus. 
+[![Gmail Badge](https://img.shields.io/badge/-oremus1193@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:oremus1193@gmail.com)]
 
 A Data Analyst with experience working with Excel, SQL, Tableau, and Power BI. My experience working in tech sales has conditioned me to be able to work with different personalities and quickly adapt to changes.  I am quick-witted and analytical by nature and always looking for new challenges and problems to solve. Love to learn and apply my knowledge to add value and help businesses grow. .
 
 
 
-[![Gmail Badge](https://img.shields.io/badge/-oremus1193@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:oremus1193@gmail.com)]
 **Oremus33/Oremus33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
