@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 My name is Saul Oremus I am a professional Data Analyst. (LinkedIn page- www.linkedin.com/in/saul-oremus)
+
+A few projects (https://github.com/Oremus33/Storytelling-Project/blob/main/README.md) 
+
+(https://github.com/Oremus33/Tableau-Project)
+
 
 <!--
 **Oremus33/Oremus33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
