@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Saul Oremus. 
 ![Gmail Badge](https://img.shields.io/badge/-oremus1193@gmail.com-c14838?style=flat&logo=gmail&logoColor=white=mailto:oremus1193@gmail.com)
 (mailto:oremus1193@gmail.com)
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/saul-oremus/)
+![Linkedin Badge](https://img.shields.io/badge/-saul-oremus-0077B5?style=flat&logo=linkedin&logoColor=white=https://www.linkedin.com/in/saul-oremus/)
 (https://www.linkedin.com/in/saul-oremus/)
 
 A Data Analyst with experience working with Excel, SQL, Tableau, and Power BI. My experience working in tech sales has conditioned me to be able to work with different personalities and quickly adapt to changes.  I am quick-witted and analytical by nature and always looking for new challenges and problems to solve. Love to learn and apply my knowledge to add value and help businesses grow. .
